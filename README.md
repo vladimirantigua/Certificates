@@ -1,5 +1,11 @@
 # Certifications
 
+## Data
+- Splunk 7.x Fundamentals Part 1 
+  - This course teaches you how to search and navigate in Splunk, use fields, get statistics from your data, create reports, dashboards, lookups, and alerts. 
+- Splunk 7.x Fundamentals Part 2
+  - This course focuses on searching and reporting commands as well as on the creation of knowledge objects. Major topics include using transforming commands and visualization,
+
 ## Google Cloud
 Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentoring from Current Google Cloud Engineers Employees: 
 
