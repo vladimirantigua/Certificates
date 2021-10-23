@@ -14,3 +14,8 @@ Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentori
 - Completed 6 months Training Certified Information Systems Security Professional (CISSP) - Syracuse University Onward to Opportunity
 - CompTIA A+ (Certified in July 2020)
 - CompTIA I.T. Fundamentals - (Certified 2016)
+
+## Software Development
+- Software Development Programming University of Utah, SLC UT.
+- Software Development Systems and Data University of Utah, SLC UT
+- Full Stack Development, PDX Code Guild, Portland, OR
