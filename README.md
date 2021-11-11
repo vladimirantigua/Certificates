@@ -29,4 +29,4 @@ Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentori
 - [Full Stack Development, PDX Code Guild, Portland, OR](https://github.com/vladimirantigua/Certificates/blob/main/fullstack_developer_bootcamp.png)
 
 ## Letter of Recommendations
-- [Fall 2021 Internship](https://github.com/vladimirantigua/Certificates/blob/main/romaric_corp_internship_rec_letter_fall2021.png)
+- [Fall 2021 Internship Letter of Recommendation](https://github.com/vladimirantigua/Certificates/blob/main/romaric_corp_internship_rec_letter_fall2021.png)
