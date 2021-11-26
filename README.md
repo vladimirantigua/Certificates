@@ -16,8 +16,7 @@ Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentori
 - [Getting Started with Google Kubernetes Engine](https://github.com/vladimirantigua/Certificates/blob/main/google_cloud_kubernetes/kubernetes_engine_101.png)
 
 ## Microsoft Cloud
-- [Microsoft Certified Azure Fundamentals AZ 900]
-(https://github.com/vladimirantigua/Certificates/blob/main/microsoft_certified_azure_az900/Microsoft%20Certified%20Azure%20Fundamentals%20%20AZ900.pdf)                  
+- [Microsoft Certified Azure Fundamentals AZ 900](https://github.com/vladimirantigua/Certificates/blob/main/microsoft_certified_azure_az900/Microsoft%20Certified%20Azure%20Fundamentals%20%20AZ900.pdf)                  
 
 ## IT & Security
 - CompTIA Security+ (Certified July 2020)
