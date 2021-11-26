@@ -15,6 +15,10 @@ Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentori
 - [Elastic Google Cloud Infrastructure: Scaling and Automation](https://github.com/vladimirantigua/Certificates/blob/main/google_cloud_kubernetes/elastic%20cloud%20infrastructure_scaling_automation.png)
 - [Getting Started with Google Kubernetes Engine](https://github.com/vladimirantigua/Certificates/blob/main/google_cloud_kubernetes/kubernetes_engine_101.png)
 
+## Microsoft Cloud
+- [Microsoft Certified Azure Fundamentals AZ 900]
+(https://github.com/vladimirantigua/Certificates/blob/main/microsoft_certified_azure_az900/Microsoft%20Certified%20Azure%20Fundamentals%20%20AZ900.pdf)                  
+
 ## IT & Security
 - CompTIA Security+ (Certified July 2020)
 - [Certified Information Systems Security Professional (CISSP) - Syracuse University Onward to Opportunity](https://github.com/vladimirantigua/Certificates/blob/main/certified_info_sys_security_prof_CISSP.png)
