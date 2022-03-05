@@ -8,6 +8,7 @@
 
 ## Amazon Web Service (AWS) Cloud
 - [Amazon Web Services AWS Certified Solutions Architect - Associate](https://github.com/vladimirantigua/Certificates/blob/main/AWS_Certified_Solutions_Architect_Associate_certificate/AWS_Certified_Solutions_Architect_Associate_certificate.pdf)
+- [Amazon Web Services AWS Certified Cloud Practitioner (CLF)](https://github.com/vladimirantigua/Certificates/blob/main/AWS_Certified_Cloud_Practitioner_certificate/AWS_Certified_Cloud_Practitioner_certificate.pdf)
 
 ## Google Cloud
 Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentoring from Current Google Cloud Engineers Employees: 
