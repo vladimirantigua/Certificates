@@ -6,6 +6,9 @@
 - [Splunk 7.x Fundamentals Part 2](https://github.com/vladimirantigua/Certificates/blob/main/splunk/splunk7_fundamentals_2.png)
   - This course focuses on searching and reporting commands as well as on the creation of knowledge objects. Major topics include using transforming commands and visualization.
 
+## Amazon Web Service (AWS) Cloud
+- [Amazon Web Services AWS Certified Solutions Architect - Associate (https://github.com/vladimirantigua/Certificates/blob/main/AWS_Certified_Solutions_Architect_Associate_certificate/AWS_Certified_Solutions_Architect_Associate_certificate.pdf)
+
 ## Google Cloud
 Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentoring from Current Google Cloud Engineers Employees: 
 
