@@ -36,5 +36,5 @@ Completed 10 Weeks of Google Cloud Engineers Bootcamps via Coursera with Mentori
 - [Full Stack Development, PDX Code Guild, Portland, OR](https://github.com/vladimirantigua/Certificates/blob/main/fullstack_developer_bootcamp.png)
 - [Microsoft Technology Associate Software Development Fundamentals MTA 98-361](https://github.com/vladimirantigua/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_0.pdf)
 
-## Letter of Recommendations
+## Internship completed Fall 2021 - Offer Letter 
 - [Software Engineering Internship Letter of Recommendation, Romaric Coporation (Fall 2021)](https://github.com/vladimirantigua/Certificates/blob/main/romaric_corp_internship_rec_letter_fall2021.png)
